@@ -1,0 +1,1 @@
+echo # Gerekli kütüphane yok, tkinter zaten Python'da var > requirements.txt
